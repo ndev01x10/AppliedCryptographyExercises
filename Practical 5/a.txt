@@ -1,0 +1,1 @@
+EXERCISE 1. "md5sum" is a GNU text utility from Free Software Foundation, Inc. Use this external program to compute the MD5 digest of a file.
